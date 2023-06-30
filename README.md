@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aayushave
-- 👀 I’m interested in Fullstack Web Development, DS, ML in Medical Diagnosis.
-- 💞️ I’m looking to collaborate on Web3 Projects.
+- 👀 I’m a DevOps Engineer, Fullstack along with it; ML in Medical Diagnosis & blockchain aficionado 
+- 💞️ I’m looking to collaborate on Web3 Projects, DevOps.
 - 📫 Reach me via twitter https://twitter.com/hel_aarve
 
 <!---
